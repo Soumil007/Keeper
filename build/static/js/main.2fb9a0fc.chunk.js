@@ -1,0 +1,2 @@
+(this["webpackJsonpkeeper-app-part-1-starting"]=this["webpackJsonpkeeper-app-part-1-starting"]||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},9:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a),p=n(2),l=n.n(p);var s=r.a.createElement("div",null,r.a.createElement("h1",null,"Hello App"));l.a.render(r.a.createElement(s,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.2fb9a0fc.chunk.js.map
